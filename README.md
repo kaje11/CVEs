@@ -63,15 +63,26 @@ IBM InfoSphere DataStage
 42] CVE-2022-40747 XXE - https://www.ibm.com/support/pages/security-bulletin-ibm-infosphere-information-server-vulnerable-xml-external-entity-injection-cve-2022-40747  
 43] CVE-2022-40752 RCE - https://www.ibm.com/support/pages/node/6833566  
   
-SquaredUp SCOM  
-44] CVE-2022-46784 - Security Vulnerability - Open redirection https://scomsupport.squaredup.com/hc/en-us/articles/8862924445853-Release-Notes-for-Dashboard-Server-SCOM-Edition  
-45] CVE-2022-46785 - Prototype pollution leading to XSS https://scomsupport.squaredup.com/hc/en-us/articles/8862924445853-Release-Notes-for-Dashboard-Server-SCOM-Edition  
-46] CVE-2022-46786 - Stored Cross-Site Scripting https://scomsupport.squaredup.com/hc/en-us/articles/8862924445853-Release-Notes-for-Dashboard-Server-SCOM-Edition  
-  
+SquaredUp SCOM 5.2.1.6654
+https://support.squaredup.com/hc/en-us/sections/4408837889297-Security-Advisory
+44] CVE-2021-40090 - A username enumeration issue was discovered in SquaredUp for SCOM 5.2.1.6654. The login functionality could enable an attacker to guess valid usernames due to a different response time for invalid usernames.
+45] CVE-2021-40091 - An SSRF issue was discovered in SquaredUp for SCOM 5.2.1.6654
+46] CVE-2021-40092 - A cross-site scripting (XSS) vulnerability in Image Tile in SquaredUp for SCOM 5.2.1.6654 allows remote attackers to inject arbitrary web script or HTML via an SVG file.
+47] CVE-2021-40093 - A cross-site scripting (XSS) vulnerability in integration configuration in SquaredUp for SCOM 5.2.1.6654 allows remote attackers to inject arbitrary web script or HTML via dashboard actions.
+48] CVE-2021-40094 - A DOM-based XSS vulnerability affects SquaredUp for SCOM 5.2.1.6654. If successfully exploited, this vulnerability may allow attackers to inject malicious code into a user's device.
+49] CVE-2021-40095 - An issue was discovered in SquaredUp for SCOM 5.2.1.6654. The Download Log feature in System / Maintenance was susceptible to a local file inclusion vulnerability (when processing remote input in the log files downloaded by an authenticated administrator user), leading to the ability to read arbitrary files on the server filesystems.
+50] CVE-2021-40096 - A cross-site scripting (XSS) vulnerability in integration configuration in SquaredUp for SCOM 5.2.1.6654 allows remote attackers to inject arbitrary web script or HTML via modification of the authorisationUrl in some integration configurations.
+
+SquaredUp SCOM SU 5.5.1.8414
+https://scomsupport.squaredup.com/hc/en-us/articles/8862924445853-Release-Notes-for-Dashboard-Server-SCOM-Edition
+51] CVE-2022-46784 - Security Vulnerability - Open redirection 
+52] CVE-2022-46785 - Prototype pollution leading to XSS
+53] CVE-2022-46786 - Stored Cross-Site Scripting
+
 IBM InfoSphere Information Server  
-47] CVE-2022-47983 - DOM-Based XSS - https://www.ibm.com/support/pages/node/6857695  
-48] CVE-2022-40753 - DOM-Based XSS - https://www.ibm.com/support/pages/node/6830015  
-49] CVE-2022-40748 - DOM-Based XSS - https://www.ibm.com/support/pages/node/6695961  
+54] CVE-2022-47983 - DOM-Based XSS - https://www.ibm.com/support/pages/node/6857695  
+55] CVE-2022-40753 - DOM-Based XSS - https://www.ibm.com/support/pages/node/6830015  
+56] CVE-2022-40748 - DOM-Based XSS - https://www.ibm.com/support/pages/node/6695961  
   
-Apache Knox  
-50] CVE-2021-42357 - DOM-Based XSS - https://www.cve.org/CVERecord?id=CVE-2021-42357
+Apache Knox
+57] CVE-2021-42357 - DOM-Based XSS - https://www.cve.org/CVERecord?id=CVE-2021-42357
