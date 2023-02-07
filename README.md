@@ -84,5 +84,5 @@ IBM InfoSphere Information Server
 55] CVE-2022-40753 - DOM-Based XSS - https://www.ibm.com/support/pages/node/6830015  
 56] CVE-2022-40748 - DOM-Based XSS - https://www.ibm.com/support/pages/node/6695961  
   
-Apache Knox
+Apache Knox  
 57] CVE-2021-42357 - DOM-Based XSS - https://www.cve.org/CVERecord?id=CVE-2021-42357
