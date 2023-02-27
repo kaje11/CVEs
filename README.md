@@ -85,4 +85,8 @@ IBM InfoSphere Information Server
 56] CVE-2022-40748 - DOM-Based XSS - https://www.ibm.com/support/pages/node/6695961  
   
 Apache Knox  
-57] CVE-2021-42357 - DOM-Based XSS - https://www.cve.org/CVERecord?id=CVE-2021-42357
+57] CVE-2021-42357 - DOM-Based XSS - https://www.cve.org/CVERecord?id=CVE-2021-42357  
+  
+MicroFocus NetIQ Manager  
+58] CVE-2022-38758 - Multiple XSS - https://portal.microfocus.com/s/article/KM000014003?language=en_US  
+59] CVE-2022-26329 - Information disclosure - https://portal.microfocus.com/s/article/KM000014001?language=en_US  
