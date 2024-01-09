@@ -90,3 +90,6 @@ Apache Knox
 MicroFocus NetIQ Manager  
 58] CVE-2022-38758 - Multiple XSS - https://portal.microfocus.com/s/article/KM000014003?language=en_US  
 59] CVE-2022-26329 - Information disclosure - https://portal.microfocus.com/s/article/KM000014001?language=en_US  
+
+Palo Alto Networks Panorama PAN-OS 
+60] CVE-2023-38046 - XXE - https://security.paloaltonetworks.com/CVE-2023-38046
