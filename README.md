@@ -93,3 +93,6 @@ MicroFocus NetIQ Manager
 
 Palo Alto Networks Panorama PAN-OS  
 60] CVE-2023-38046 - XXE - https://security.paloaltonetworks.com/CVE-2023-38046
+61] CVE-2023-6789 - XSS - https://security.paloaltonetworks.com/CVE-2023-6789
+62] CVE-2023-6790 - DOM-Based XSS - https://security.paloaltonetworks.com/CVE-2023-6790
+63] CVE-2023-6791 - Honeypot Information Disclosure - https://security.paloaltonetworks.com/CVE-2023-6791
