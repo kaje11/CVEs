@@ -96,3 +96,13 @@ Palo Alto Networks Panorama PAN-OS
 61] CVE-2023-6789 - XSS - https://security.paloaltonetworks.com/CVE-2023-6789  
 62] CVE-2023-6790 - DOM-Based XSS - https://security.paloaltonetworks.com/CVE-2023-6790  
 63] CVE-2023-6791 - Honeypot Information Disclosure - https://security.paloaltonetworks.com/CVE-2023-6791  
+
+HCL BigFix  
+64] CVE-2023-37531 - XSS - https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0110209  
+65] CVE-2023-37530 - XSS - https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0110209  
+66] CVE-2023-37529 - XSS - https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0110209  
+67] CVE-2023-37528 - XSS - https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0110209  
+68] CVE-2023-37527 - XSS - https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0110209  
+69] CVE-2024-23552 - Information Disclosure - https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0110209  
+70] CVE-2024-23553 - XSS - https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0110209  
+
