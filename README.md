@@ -106,3 +106,5 @@ HCL BigFix
 69] CVE-2024-23552 - Information Disclosure - https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0110209  
 70] CVE-2024-23553 - XSS - https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0110209  
 
+VMWare Aria Operations  
+71] CVE-2024-22238 - XSS - https://www.vmware.com/security/advisories/VMSA-2024-0002.html  
