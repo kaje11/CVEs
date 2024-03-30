@@ -105,6 +105,9 @@ HCL BigFix
 68] CVE-2023-37527 - XSS - https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0110209  
 69] CVE-2024-23552 - Information Disclosure - https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0110209  
 70] CVE-2024-23553 - XSS - https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0110209  
+71] CVE-2023-45706 - XSS/MITM - https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0111972  
+72] CVE-2023-45705 - SSRF - https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0111972  
+73] CVE-2023-45715 - DoS - https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0111972  
 
 VMWare Aria Operations  
-71] CVE-2024-22238 - XSS - https://www.vmware.com/security/advisories/VMSA-2024-0002.html  
+74] CVE-2024-22238 - XSS - https://www.vmware.com/security/advisories/VMSA-2024-0002.html  
