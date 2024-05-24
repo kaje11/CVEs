@@ -111,3 +111,14 @@ HCL BigFix
 
 VMWare Aria Operations  
 74] CVE-2024-22238 - XSS - https://www.vmware.com/security/advisories/VMSA-2024-0002.html  
+
+F5 BIG-IP  
+75] CVE-2024-27202 - XSS - https://my.f5.com/manage/s/article/K000138520  
+
+Aruba ClearPass  
+76] CVE-2024-26294 - RCE - https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2024-001.txt  
+77] CVE-2024-26295 - RCE - https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2024-001.txt  
+78] CVE-2024-26296 - RCE - https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2024-001.txt  
+79] CVE-2024-26297 - RCE - https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2024-001.txt  
+80] CVE-2024-26298 - RCE - https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2024-001.txt  
+80] CVE-2024-26300 - XSS - https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2024-001.txt  
