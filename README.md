@@ -121,4 +121,7 @@ Aruba ClearPass
 78] CVE-2024-26296 - RCE - https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2024-001.txt  
 79] CVE-2024-26297 - RCE - https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2024-001.txt  
 80] CVE-2024-26298 - RCE - https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2024-001.txt  
-80] CVE-2024-26300 - XSS - https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2024-001.txt  
+81] CVE-2024-26300 - XSS - https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2024-001.txt  
+
+Microsoft  
+82] CVE-2024-26251 - 2 DOM-Based XSS - https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-26251
